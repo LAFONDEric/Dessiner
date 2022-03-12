@@ -1,0 +1,2 @@
+﻿  TP0.cpp
+D:\code\TP0\TP0\TP0.cpp(1,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core.hpp' : No such file or directory

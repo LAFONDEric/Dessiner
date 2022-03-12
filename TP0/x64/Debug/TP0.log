@@ -1,0 +1,15 @@
+﻿  TP0.cpp
+D:\code\LAFOND Eric\TP3\TP0\TP0.cpp(23,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+D:\code\LAFOND Eric\TP3\TP0\TP0.cpp(98,11): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\code\LAFOND Eric\TP3\TP0\TP0.cpp(98,36): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+D:\code\LAFOND Eric\TP3\TP0\TP0.cpp(113,40): warning C4267: '=' : conversion de 'size_t' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+D:\code\LAFOND Eric\TP3\TP0\TP0.cpp(114,40): warning C4267: '=' : conversion de 'size_t' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+  TP0.vcxproj -> D:\code\LAFOND Eric\TP3\x64\Debug\TP0.exe
